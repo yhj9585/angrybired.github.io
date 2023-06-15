@@ -311,11 +311,19 @@
 /* bottombar area */
 .bottombar_BottomBar_3vCzS {
   /* bottom bar to top */
-  background: #0a0a0a !important;
-  margin-top: 8px !important;
+  background: transparent; !important;
+  margin-top: 20px !important;
   right: 0 !important;
-  margin-right: 149px !important;
+  margin-right: 10px !important;
   position: fixed !important;
   top: 0 !important;
   border-radius: 4px !important;
+}
+
+.bottombar_AddGameButton_2foCk .bottombar_Text_3OhUx, .bottombar_FriendsButton_1TdaA .bottombar_Text_3OhUx, .bottombar_DownloadStatusContent_ip-YZ .bottombar_Queue_3wJnT{
+  display: none !important;
+}
+
+.bottombar_DetailedDownloadProgress_2VtAq .bottombar_IconBevel_21vPQ {
+  background-image: none !important;
 }
