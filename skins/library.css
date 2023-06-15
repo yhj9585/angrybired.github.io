@@ -397,6 +397,7 @@
 
 .gamelisthome_Bar_3pSPl {
     color: var(--2th-color) !important;
+    background-color: #ffffff !important;
 
 }
 .gamelisthome_Bar_3pSPl .gamelisthome_Icon_1ooRO svg {
@@ -418,16 +419,26 @@
 
 
 .gamelistentry_Container_2-O4Z.gamelistentry_Uninstalled_5YTBr {
-    color: #b9bcc1 !important;
+    color: #8c8c8c !important;
 }
 
 .gamelisthome_Bar_3pSPl:hover .gamelisthome_Label_3O48L {
     color: #737373 !important;
 }
 
-.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover {
-    background-color: #000 !important;
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z {
+    background-color: #a9a9a9 !important;
 }
+
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, .gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover {
+    background-color: #a9a9a9 !important;
+}
+
+.collapseicon_CollapseIconParent_ehAsU .collapseicon_Container_3SFRZ {
+    stroke: rgb(255 255 255) !important;
+}
+
+
 
 /*
 *=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -456,4 +467,153 @@
 .libraryhomeshowcases_ShowcaseHeader_23Snl .libraryhomeshowcases_Rule_1PhK8 {
     background-color: rgb(0 0 0) !important;
     height: 1px !important;
+}
+
+
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+?
+? Scroll Container
+?
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+.allcollections_ScrollContainer_u1xD3 {
+    background: #fff !important;
+}
+
+.allcollections_ScrollContainer_u1xD3 .allcollections_Header_2Th-v {
+    color: rgb(0 0 0) !important;
+}
+
+.infoicon_MoreInfoIcon_34I5H {
+    color: rgb(255 255 255) !important;
+    background-color: rgb(165 165 165) !important;
+}
+
+.allcollections_ScrollContainer_u1xD3 .allcollections_Header_2Th-v .allcollections_Rule_2wbrx {
+    background: linear-gradient(to right, rgb(101 101 101), rgba(255, 255, 255, 0)) !important; 
+}
+
+.allcollections_Collection_3IWn-.allcollections_NewCollection_2_dwx {
+    background: #f3f3f3 !important;
+}
+
+.collectionview_OuterContainer_2sNr7 {
+    background: #fff !important;
+}
+
+.collectionview_Container_2q70u {
+    color: white !important;
+}
+
+.collectionview_Container_2q70u .collectionview_Header_2rqTS .collectionview_SectionCount_3Xgxj {
+    color: black !important;
+}
+
+.collectionview_Container_2q70u .collectionview_Header_2rqTS .collectionview_Rule_1grg9 {
+    background: linear-gradient(to right, rgb(0 0 0), rgba(255, 255, 255, 0)) !important;
+}
+
+.appgrid_SortingDropDown_1tBzy .appgrid_SortingDropDownLabel_1ljKT {
+    color: black !important;
+}
+
+.appgrid_AppGridSectionHeader_3bWIS .appgrid_Rule_3pJqX {
+    background: linear-gradient(to right, rgb(113 113 113 / 60%), rgba(255, 255, 255, 0)) !important;
+}
+
+
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+?
+? Appdetails
+?
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+.appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
+    background-image: radial-gradient(100% 100% at 45% 35%, #ffffff 0%, #ffffff 100%) !important;
+}
+
+.posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
+    background: rgb(255, 255, 255 / 60%) !important;
+}
+
+.appdetailssectionheader_SectionHeader_1Q2q_ {
+    color: #071419 !important;
+}
+
+.appactivityday_PartnerEvent_1AYE1 {
+    background: none !important; 
+}
+
+.appactivityday_PartnerEventMediumImage_Summary_Ru7OB {
+    color: #000 !important;
+}
+
+.appactivityday_PartnerEventMediumImage_Title_1gljE {
+    color: #585858 !important;
+}
+
+.appactivityday_PartnerEventType_1ujzu {
+    color: black !important;
+}
+
+.appactivityday_AppActivityDay_S2Fu9 .appactivityday_AppActivityDate_19LfM {
+    color: #4c4c4c !important;
+}
+
+.appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
+    background: linear-gradient(to right, rgb(183 183 183 / 80%) 0%, rgb(158 158 158 / 80%) 95%) !important;
+}
+
+.appdetailssection_Highlight_38t1m {
+    background: linear-gradient(to right, #e2e2e200 0%, #dadada00 95%) !important;
+    box-shadow: 1px 2px 13px 0px rgb(206 206 206 / 25%) !important;
+}
+
+.appdetailsachievementssection_UnlockedLabel_3jC8o {
+    color: #292929 !important;
+}
+
+.appdetailsachievementssection_Featured_1j_gj .appdetailsachievementssection_TextSection_1s_9c .appdetailsachievementssection_Name_39Y01 {
+    color: #131313e0 !important;
+}
+
+.appdetailsachievementssection_Featured_1j_gj .appdetailsachievementssection_TextSection_1s_9c .appdetailsachievementssection_Desc_2gLHb {
+    color: #525252cf !important;
+}
+
+.appdetailstradingcardssection_Card_1WsOn.appdetailstradingcardssection_Unowned_1A6NC .appdetailstradingcardssection_CardContainer_2DUDv, .appdetailstradingcardssection_Card_1WsOn.appdetailstradingcardssection_Loading_2ZOgN .appdetailstradingcardssection_CardContainer_2DUDv {
+    background-color: #39414900 !important;
+}
+
+.appdetailscommunityfeed_HeaderStyles_2lNdD {
+    color: #00b8ff !important;
+}
+
+.appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh {
+    background: none !important;
+}
+
+.spotlightgameplaysummary_SummaryCarouselContainer_wgbDI {
+    background: none !important;
+}
+
+.spotlightgameplaysummary_SummaryCarouselContainer_wgbDI:after {
+    box-shadow: 1px 1px 11px 0px #00000040 !important; 
+}
+
+.spotlightgameplaysummary_GamePlaySummaryHeader_2_sR8 {
+    color: #6dd6ff !important;
+}
+
+.appdetailsspotlight_ReviewContainer_3LE-6 {
+    background-color: none !important;
+}
+
+.writereview_RatingContainer_2SAb6 {
+    background-color: none !important;
+    box-shadow: 1px 1px 10px #00000042;
 }
