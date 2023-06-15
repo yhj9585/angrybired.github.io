@@ -4,13 +4,13 @@
   --second-logo-text: #ffc466;
   
   /*! Theme Settings */
-  --1th-color: #FF0000;
-  --2th-color: #00FF00;
-  --3th-color: #0000FF;
-  --4th-color: #FFFF00;
-  --5th-color: #00FFFF;
-  --6th-color: #FF00FF;
+  --1th-color: #ededed;
+  --2th-color: #7e8086;
+  --3th-color: #bebfc0;
+  --4th-color: #e8e8e8;
+  --5th-color: #2b2825;
+  --6th-color: #292826;
   --accent-color: #ffad6b;
   --accent-color2: #ffb56b;
-  --background-color: #FF00FF; //
+  --background-color: #f5f5f5; //
 }
