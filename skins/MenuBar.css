@@ -1,0 +1,22 @@
+/* MENU */
+
+.menu_MenuPopup_3pofG {
+	background: #ffffff !important;
+}
+
+.DesktopUI .contextmenu_contextMenuItem_pFo3k, .contextmenu_ForceDesktop_7K1n9 .contextmenu_contextMenuItem_pFo3k {
+    color: #636363 !important;
+}
+
+.titlebarcontrols_NotificationsMenu_1UgM1 {
+	background: radial-gradient(circle at top left, rgba(74, 81, 92, 0.4) 0%, rgba(75, 81, 92, 0) 60%),#ffffff !important;
+    box-shadow: inset rgb(255 255 255 / 75%) 1px 1px 1px 0px, inset rgba(61,68,80,.25) -1px -1px 1px 0px !important;
+}
+
+.titlebarcontrols_NotificationsMenu_1UgM1 {
+	color: #101010 !important;
+}
+
+.menu_MenuItem_2jXHP.menu_Item_2uiDe:hover {
+    background-color: #dedede !important;
+}

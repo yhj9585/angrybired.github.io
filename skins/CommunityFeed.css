@@ -1,0 +1,45 @@
+/* APP DETAILS - COMMUNITY FEED */
+
+.posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2 {
+    background: transparent !important;
+	box-shadow: inset 0px 0px 4px #0000004a !important;
+}
+
+.appdetailscommunityfeed_HeaderStyles_2lNdD { 
+	background: radial-gradient(circle at 0% 20%, rgba(94, 137, 194, 0.15) 0%, rgba(34, 34, 39, 0) 20%),linear-gradient(to bottom, rgba(67, 133, 247, 0.95) 0%, rgb(249 249 249 / 0%) 2px, rgb(85 98 121 / 0%) 50%, rgba(34, 34, 39, 0) 100%) !important;
+}
+
+.appdetailscommunityfeed_CommunityItem_3QS6O {
+	background-color: #ffffff !important;
+}
+
+.appdetailscommunityfeed_AuthorSection_1ul9Z {
+	background: transparent !important;
+}
+
+.appdetailscommunityfeed_CommunityItem_3QS6O {
+	box-shadow: 0 2px 8px rgb(0 0 0 / 17%) !important;
+}
+
+.appdetailscommunityfeed_CommunityItem_3QS6O:hover {
+	box-shadow: 0 1px 2px rgb(0 0 0 / 0%), 0 14px 14px rgb(0 0 0 / 0%), 0 10px 5px rgb(0 0 0 / 13%) !important;
+}
+.appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
+	background-color: rgb(255 255 255 / 70%) !important;
+}
+
+.appdetailsplaysection_StickyHeaderShadow_2_86Q {
+	background: transparent !important;
+}
+
+.offline .personanameandstatus_playerName_r62qz {
+	color: #ff9f5a !important;
+}
+
+.appactivityday_PartnerEventMediumImage_Container_1HZy7 {
+	background: transparent !important;
+}
+
+.appactivityday_PartnerEventLargeImage_Container_Libri {
+	background: transparent !important;
+}

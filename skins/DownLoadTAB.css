@@ -1,0 +1,42 @@
+
+/* DOWNLOAD TAB */
+
+.downloadgraph_StatsPanel_3mdnp .downloadgraph_Figure_eXF8x  {
+	color: #4e4e4e !important;
+}
+
+.downloadgraph_StatsPanel_3mdnp .downloadgraph_Status_3BdWq  {
+	color: #000 !important;
+}
+
+.downloads_SectionTitle_qq2xI .downloads_TitleAndCount_ROxNr .downloads_Title_TK9wv, .downloads_SectionJumpBar_mw7VZ .downloads_TitleAndCount_ROxNr .downloads_Title_TK9wv {
+    color: #909090 !important;
+}
+
+.downloads_SectionItem_1VNuY .downloads_Name_35eOQ {     
+	color: #6d6d6d !important;
+}
+
+.downloads_ProgressDetails_sv3ZH .downloads_Value_1dHjj.downloads_InProgress_3Wavc {
+    color: #676767 !important;
+}
+
+.downloads_ProgressDetails_sv3ZH .downloads_Value_1dHjj {
+    color: #000000 !important;
+}
+
+.downloadgraph_DownloadGraph_1BxZD .downloadgraph_GraphBarWrapper_gpPxC {
+	color: rgb(26 159 255) !important;
+}
+
+.downloads_SectionItem_1VNuY.downloads_Active_IbePL {
+	background-color: #e4e4e4 !important;
+}
+
+.downloads_SectionItemStatus_1Sygg .downloads_Progress_FuJLs {
+	color: #4e4e4e !important;
+}
+
+.downloads_RemoveAllButton_1GdR5.downloads_RemoveAllButton_1GdR5.DialogButton:enabled {
+	background: #e6e6e6 !important;
+}
